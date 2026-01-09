@@ -6,4 +6,7 @@ rcode : Analysis Using R # R Programming Language # Dplyr # Palmerpenguins # Dat
 - Work with penguins dataset.
 - Use the arrange() function to sort the data for the column bill_length_mm in ascending order.
 
-## Cleaning Data using R code
+
+## Cleaning Data using R Scripting
+
+![rcode001.png](./media/rcode001.png)
